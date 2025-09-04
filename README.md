@@ -1,0 +1,1 @@
+Write a random number guessing game (1 to 100) using C#. By combining timestamps and random generation functions, you can randomly generate uncertain numbers to continue guessing, and during the guessing process, there are size prompts for the guessed and generated numbers.
